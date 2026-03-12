@@ -11,10 +11,14 @@
             "id": "0974c7bafd666b53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HOME"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from HOME"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "HOME.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of HOME"
             }
           },
           {
@@ -189,15 +196,18 @@
   },
   "active": "bd9910b7791ae3ea",
   "lastOpenFiles": [
+    "README.md",
+    "Bridge/Bridge MCP.md",
+    "HOME.md",
+    "Context.md",
+    "Bridge/Bridge Knowledge Base.md",
     "Bridge/Bridge Board.md",
     "Bridge/Bridge Frontend.md",
     "Bridge/YC Fall Video.md",
     "Bridge/YC - F25 - Application.md",
     "Bridge/YC - S25 Application.md",
-    "Bridge/00 - Home.md",
     "Bridge/Product Description.md",
     "Bridge/Problem Definition.md",
-    "Bridge Knowledge Base.md",
     "Bridge/Mentor Meeting.md",
     "Bridge/Gemini API Key.md",
     "Bridge/GPT - Bridge - Dad.md",
@@ -211,7 +221,6 @@
     "Bridge/bridge current.md",
     "Bridge/Bridge Passwords.md",
     "Bridge/Our Positioning.md",
-    "Bridge/Contributing.md",
-    "Bridge Architecture.md"
+    "Bridge/Contributing.md"
   ]
 }

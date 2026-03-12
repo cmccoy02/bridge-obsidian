@@ -1,3 +1,4 @@
+*Note, some files are blank or incomplete, this vault will be up to date after I finish migrating all docs and notes here.*
 # Bridge
 
 > *Technical debt management for the AI era.*

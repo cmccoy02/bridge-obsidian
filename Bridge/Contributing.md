@@ -1,6 +1,6 @@
 # Contributing
 
-[[00 - Home|← Home]] | See also: [[Bridge Architecture]], [[Roadmap]], [[Product Description]]
+[[HOME|← Home]] | See also: [[Bridge Architecture]], [[Roadmap]], [[Product Description]]
 
 ---
 

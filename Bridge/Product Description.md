@@ -1,6 +1,6 @@
 # Product Description
 
-[[00 - Home|← Home]] | See also: [[Problem Definition]], [[Bridge Architecture]], [[Bridge Knowledge Base]]
+[[HOME|← Home]] | See also: [[Problem Definition]], [[Bridge Architecture]], [[Bridge Knowledge Base]]
 
 ---
 

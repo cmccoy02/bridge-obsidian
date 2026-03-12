@@ -1,6 +1,6 @@
 # Problem Definition
 
-[[00 - Home|← Home]] | See also: [[Product Description]], [[Bridge Knowledge Base]], [[Roadmap]]
+[[HOME|← Home]] | See also: [[Product Description]], [[Bridge Knowledge Base]], [[Roadmap]]
 
 ---
 
